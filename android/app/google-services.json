@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "672869159031",
+    "project_id": "raider-eats-app",
+    "storage_bucket": "raider-eats-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672869159031:android:e909776faaff0bbf143672",
+        "android_client_info": {
+          "package_name": "com.capstoneproject.raidereatsridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672869159031-c9opvla5huqt8g3ldb0l9ke4hgqn0hda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYRxpgPHgiYVmH9RwjITFPlEfpJ6s4PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672869159031-c9opvla5huqt8g3ldb0l9ke4hgqn0hda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672869159031:android:2fbc905c83ce5109143672",
+        "android_client_info": {
+          "package_name": "com.capstoneproject.raidereatssellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672869159031-c9opvla5huqt8g3ldb0l9ke4hgqn0hda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYRxpgPHgiYVmH9RwjITFPlEfpJ6s4PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672869159031-c9opvla5huqt8g3ldb0l9ke4hgqn0hda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

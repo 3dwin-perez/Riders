@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">672869159031-c9opvla5huqt8g3ldb0l9ke4hgqn0hda.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">672869159031</string>
+    <string name="google_api_key" translatable="false">AIzaSyBWYRxpgPHgiYVmH9RwjITFPlEfpJ6s4PM</string>
+    <string name="google_app_id" translatable="false">1:672869159031:android:e909776faaff0bbf143672</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBWYRxpgPHgiYVmH9RwjITFPlEfpJ6s4PM</string>
+    <string name="google_storage_bucket" translatable="false">raider-eats-app.appspot.com</string>
+    <string name="project_id" translatable="false">raider-eats-app</string>
+</resources>
